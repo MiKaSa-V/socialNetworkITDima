@@ -1,0 +1,21 @@
+.nav {
+    position: absolute;
+    width: 150px;
+    height: 465px;
+    padding-top: 15px;
+    top: auto;
+    left: 100px;
+    /* grid-area: 2 / 2 / 5 / 3; */
+    background-color:rgb(104, 163, 48);
+    text-align: center;
+    border-radius: 10px;
+}
+.item a{
+    display: inline-block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color:white;
+}
+.item a.active{
+    color: gold;
+}

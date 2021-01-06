@@ -1,0 +1,8 @@
+.content {
+    position: absolute;
+    width: 985px;
+    height: 480px;
+    top: auto;
+    right: 100px;
+    background-color: rgb(28, 145, 145);
+}
